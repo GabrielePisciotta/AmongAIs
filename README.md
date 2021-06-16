@@ -5,9 +5,9 @@ It's inspired by the well-known "Among Us" game, and its main purpose it's to de
 been expanded to support also human players). Everything has been built following an agile development, with the entire class
 taking part (from brainstorming to development of each team's component). 
 
-<center>
-<img src="preliminary_movement_visualization.gif" width="200" height="200" />
-</center>
+<p align="center">
+<img src="preliminary_movement_visualization.gif" width="300" height="300" />
+</p>
 
 The game is structured in matches (and tournaments) in which two teams of agents (AI / humans) have the goal to catch the opponent's flag and 
 kill the enemies. Agents can also be "impostors", so it take step the "social game" in which the agents have to spot the real 
