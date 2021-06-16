@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd ..
+rsync -av . margot.di.unipi.it:/home/gervasi/workspace/AmongAIs.zip_expanded/AmongAIs/
