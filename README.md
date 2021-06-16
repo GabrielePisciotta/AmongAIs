@@ -15,7 +15,7 @@ impostor and vote to kick him. There's also the Turing Game, which aim is simply
 There's also the chat available. 
 
 
-In this repository we present the code about the agent we developed as team 7 (Gabriele Pisciotta, Fabio Murgese, Antonio Di Mauro),
+In this repository we present the code about the agent we developed as team 7 ([Gabriele Pisciotta](https://github.com/GabrielePisciotta), [Fabio Murgese](https://github.com/FabioMurgese), [Antonio Di Mauro](https://github.com/antodima)),
 accompanied by the server to test the game (credits to prof. Gervasi) and a PC client (credits to Jessica Sartori, 
 Luca Roveroni, and Marco Lepri).
 
