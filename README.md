@@ -23,7 +23,7 @@ There's also the possibility to use a [web app](http://amongais.altervista.org/)
 being run at University of Pisa's servers, so don't expect to be properly able to play if the server will be shut down in
 the future.
 
-## Detailed documents
+## Detailed documentations
 Take a look at our [report](REPORT.pdf), where we describe the architecture and all the algorithms implemented to animate 
 our agent. Please take note that the code is something that's been built quick&dirty! :)
 
