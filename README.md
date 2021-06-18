@@ -16,10 +16,10 @@ There's also the chat available.
 
 
 In this repository we present the code about the agent we developed as team 7 ([Gabriele Pisciotta](https://github.com/GabrielePisciotta), [Fabio Murgese](https://github.com/FabioMurgese), [Antonio Di Mauro](https://github.com/antodima)),
-accompanied by the server to test the game (credits to prof. Gervasi) and a PC client (credits to Jessica Sartori, 
+accompanied by the server to test the game (credits to prof. Gervasi) and a cross-platform PC client ([repository](https://github.com/JessicaSartori/AmongAIs-DesktopApp)) (credits to Jessica Sartori, 
 Luca Roveroni, and Marco Lepri).
 
-There's also the possibility to use a [web app](http://amongais.altervista.org/) to join / spectate the game, but it strictly depends from the game server 
+There's also the possibility to use a [web app](http://amongais.altervista.org/) ([repository](https://github.com/HoenikkerPerez/AmongAis-WebApp)) to join / spectate the game, but it strictly depends from the game server 
 being run at University of Pisa's servers, so don't expect to be properly able to play if the server will be shut down in
 the future.
 
