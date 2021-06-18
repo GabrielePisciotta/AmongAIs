@@ -1,6 +1,6 @@
-Among AI
+Among AIs
 ---
-Among AI is a PC Game we developed as part of the [Smart Applications](https://esami.unipi.it/esami2/programma.php?c=36618) course @ [Department of Computer Science](https://di.unipi.it/en/?start=25) of [University of Pisa](https://unipi.it), under the supervision of prof. Gervasi.
+Among AIs is a PC Game we developed as part of the [Smart Applications](https://esami.unipi.it/esami2/programma.php?c=36618) course @ [Department of Computer Science](https://di.unipi.it/en/?start=25) of [University of Pisa](https://unipi.it), under the supervision of prof. Gervasi.
 It's inspired by the well-known "Among Us" game, and its main purpose it's to develop and let play AI agents (then it's 
 been expanded to support also human players). Everything has been built following an agile development, with the entire class
 taking part (from brainstorming to development of each team's component). 
